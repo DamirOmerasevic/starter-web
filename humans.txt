@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Damir damir@daan.ba @daan75
 
 # THANKS
 
