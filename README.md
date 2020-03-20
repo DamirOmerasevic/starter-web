@@ -21,6 +21,7 @@ Deployment1
 
 ## How to Contribute
 
+Please fork this repo and then iussue PULL
 
 ### Copyright 
 
