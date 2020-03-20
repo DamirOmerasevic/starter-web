@@ -20,3 +20,8 @@ Deployment1
 
 
 ## How to Contribute
+
+
+### Copyright 
+
+DAAN 2020 Git.Training by DAMIR
